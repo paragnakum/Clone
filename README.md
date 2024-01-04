@@ -1,2 +1,1 @@
-# Clone
-my amazon project
+# Amazon Clone
